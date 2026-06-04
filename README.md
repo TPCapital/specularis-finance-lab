@@ -31,6 +31,14 @@ The purpose of this lab is to build a long-term financial research archive that 
 | AI Trading Agents | AI-assisted analysis, alert systems, automation, research agents |
 | Research Notes | Personal frameworks, observations, and system design notes |
 
+## Category Index
+
+- [Market Data](categories/01-market-data.md)
+- [Trading Dashboards](categories/02-trading-dashboards.md)
+- [Options](categories/03-options.md)
+- [Futures](categories/04-futures.md)
+- [Risk Management](categories/06-risk-management.md)
+
 ## Active Specularis Projects
 
 | Project | Description | Status |
