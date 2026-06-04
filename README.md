@@ -39,6 +39,16 @@ The purpose of this lab is to build a long-term financial research archive that 
 - [Futures](categories/04-futures.md)
 - [Risk Management](categories/06-risk-management.md)
 
+  ## Initial Resource Set
+
+| Category | Resource | Purpose |
+|---|---|---|
+| Market Data | [yfinance](categories/01-market-data.md) | Historical market data for research and prototyping |
+| Trading Dashboards | [OpenBB](categories/02-trading-dashboards.md) | Financial research terminal and dashboard architecture reference |
+| Options | [QuantLib](categories/03-options.md) | Options pricing, Greeks, volatility, and derivatives research |
+| Futures | [CME Group](categories/04-futures.md) | Official futures contract specifications and market structure |
+| Risk Management | [Position Sizing Framework](categories/06-risk-management.md) | Risk-first position sizing and execution discipline |
+
 ## Active Specularis Projects
 
 | Project | Description | Status |
