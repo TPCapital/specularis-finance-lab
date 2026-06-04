@@ -39,7 +39,12 @@ The purpose of this lab is to build a long-term financial research archive that 
 - [Futures](categories/04-futures.md)
 - [Risk Management](categories/06-risk-management.md)
 
-  ## Initial Resource Set
+## Research Workflow
+
+- [Inbox](inbox.md) — Temporary list of resources waiting for review.
+- [Evaluation Framework](evaluation-framework.md) — Criteria for evaluating financial, trading, and market intelligence resources.
+
+## Initial Resource Set
 
 | Category | Resource | Purpose |
 |---|---|---|
